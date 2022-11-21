@@ -1,0 +1,7 @@
+#Проигнорируйте подкаталог tmp
+tmp
+_old
+_backup
+.idea
+*.iml
+Thumbs.db
